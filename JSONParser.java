@@ -9,6 +9,7 @@ public class JSONParser
         this.jsonString = jsonString;
     }
 
+
     public String getField(String field)
     {
         String value = "";
